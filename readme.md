@@ -1,6 +1,12 @@
 # 🧠 Second Brain
 
-A personal content curation and visualization platform that integrates social media platforms like **Twitter** and **YouTube** for structured digital knowledge sharing.
+Welcome to **Second Brain**, a centralized app that lets you collect, organize, and manage content from various sources like **Twitter**, **YouTube** — all in one place.
+
+## 🚀 What is Second Brain?
+
+> “I'm building a second brain app. An app where you can come, add content from various sources (Twitter, YouTube, etc) and store it in a centralized place.”
+
+This app serves as your personal digital assistant for content curation. Whether you're saving informative tweets, interesting videos, **Second Brain** keeps everything structured and accessible in a beautiful dashboard.
 
 ---
 
