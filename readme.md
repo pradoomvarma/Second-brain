@@ -1,7 +1,5 @@
 # 🧠 Second Brain
 
-![screenshot](./Screenshot.png)
-
 A personal content curation and visualization platform that integrates social media platforms like **Twitter** and **YouTube** for structured digital knowledge sharing.
 
 ---
