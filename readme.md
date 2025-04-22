@@ -1,6 +1,6 @@
 # 🧠 Second Brain
 
-![App Screenshot](./)
+![App Screenshot](./Screenshot%202025-04-22%20090739.png)
 
 Welcome to **Second Brain**, a centralized app that lets you collect, organize, and manage content from various sources like **Twitter**, **YouTube** — all in one place.
 
