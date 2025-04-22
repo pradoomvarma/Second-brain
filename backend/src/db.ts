@@ -1,6 +1,6 @@
 import mongoose, { model, Schema } from "mongoose";
 
-mongoose.connect('mongodb+srv://admin:Pradoom%40321@cluster0.pu3wp.mongodb.net/second-brain');
+mongoose.connect('MONGO_URI');
 
 const UserSchema = new Schema({
     username: {type: String, unique: true},
