@@ -1,5 +1,7 @@
 # 🧠 Second Brain
 
+![App Screenshot](./)
+
 Welcome to **Second Brain**, a centralized app that lets you collect, organize, and manage content from various sources like **Twitter**, **YouTube** — all in one place.
 
 ## 🚀 What is Second Brain?
